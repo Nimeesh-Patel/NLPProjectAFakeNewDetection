@@ -67,6 +67,8 @@ The comparative analysis of different models highlights their effectiveness in d
 | SGD Classifier     | 58      | 78            | 54         | 44           |
 | KNN                | 58      | 58            | 58         | 58           |
 | Bernoulli NB       | 56      | 78            | 52         | 40           |
+| BERT             | 94.00       | —           | —          | 93.91       |
+| RoBERTa          | 93.00       | —           | —          | 92.91       |
 
 
 ## Conclusion
