@@ -33,7 +33,29 @@ Fake New Detection
 
 ## Algorithms Used
 
+- Machine Learning Algorithms
+  - Gaussian NB  
+  - Logistic Regression  
+  - Random Forest  
+  - Multinomial NB  
+  - Decision Tree  
+  - SVM  
+  - SGD Classifier  
+  - KNN  
+  - Bernoulli NB  
+
+- Deep Learning Algorithms
+  - CNN  
+  - LSTM  
+  - CNN-BiLSTM  
+
+- Language Models
+  - BERT  
+  - RoBERTa  
+
+
 ## Comparitive Analysis
+The comparative analysis of different models highlights their effectiveness in detecting fake news. The following table summarizes the accuracy, precision, recall, and F1-score of the models tested:
 | Model              | Accuracy  (%) | Precision (%) | Recall (%) | F1-Score (%) |
 |--------------------|----------|---------------|------------|--------------|
 | Gaussian NB        | 70      | 70            | 69         | 69           |
