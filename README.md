@@ -15,13 +15,13 @@ You can learn more about the college by visiting the official website of [Pillai
 ## Acknowledgements
 We would like to express our sincere gratitude to the following individuals:
 
-### Theory Faculty:
-- Dhiraj Amin
-- Sharvari Govilkar
+- Theory Faculty:
+  - Dhiraj Amin
+  - Sharvari Govilkar
 
-### Lab Faculty:
-- Dhiraj Amin
-- Neha Ashok
-- Shubhangi Chavan
+- Lab Faculty:
+  - Dhiraj Amin
+  - Neha Ashok
+  - Shubhangi Chavan
 
 Their guidance and support have been invaluable throughout this project.
