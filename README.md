@@ -25,3 +25,26 @@ We would like to express our sincere gratitude to the following individuals:
   - Shubhangi Chavan
 
 Their guidance and support have been invaluable throughout this project.
+
+## Project Title
+Fake New Detection
+
+## Project Abstract
+
+## Algorithms Used
+
+## Comparitive Analysis
+| Model              | Accuracy  (%) | Precision (%) | Recall (%) | F1-Score (%) |
+|--------------------|----------|---------------|------------|--------------|
+| Gaussian NB        | 70      | 70            | 69         | 69           |
+| Logistic Regression| 68      | 71            | 70         | 68           |
+| Random Forest      | 67      | 67            | 67         | 67           |
+| Multinomial NB     | 66      | 69            | 68         | 66           |
+| Decision Tree      | 65      | 65            | 65         | 65           |
+| SVM                | 61      | 61            | 61         | 61           |
+| SGD Classifier     | 58      | 78            | 54         | 44           |
+| KNN                | 58      | 58            | 58         | 58           |
+| Bernoulli NB       | 56      | 78            | 52         | 40           |
+
+
+## Conclusion
